@@ -1,2 +1,2 @@
 # picgo
-csdn-pic
+博客图床
